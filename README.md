@@ -7,7 +7,9 @@ This ROS project implements obstacle avoidance for a robot using [insert your ob
 Before you get started, make sure you have the following installed:
 
 - [ROS (Robot Operating System)](http://www.ros.org/)
-- [Insert any other specific dependencies here]
+- Google Tensor Flow
+- Turtlebot3
+- Python
 
 ## Installation
 
