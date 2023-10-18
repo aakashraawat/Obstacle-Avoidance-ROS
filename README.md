@@ -1,6 +1,8 @@
 ## Overview
 
-This ROS project implements obstacle avoidance for a robot using [ "Laser-based obstacle avoidance"].
+This ROS project implements obstacle avoidance for a robot using  "Laser-based obstacle avoidance" and "training neural network using tensorflow"
+<img width="1273" alt="Screenshot 2023-10-18 at 16 26 41" src="https://github.com/aakashraawat/Obstacle-Avoidance-ROS/assets/113524198/9804746c-c0db-45ab-99df-11a56b5c3c0b">
+
 
 ## Prerequisites
 
