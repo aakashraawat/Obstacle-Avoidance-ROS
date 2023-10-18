@@ -1,6 +1,6 @@
 ## Overview
 
-This ROS project implements obstacle avoidance for a robot using [insert your obstacle avoidance technique or algorithm here, e.g., "Laser-based obstacle avoidance"].
+This ROS project implements obstacle avoidance for a robot using [ "Laser-based obstacle avoidance"].
 
 ## Prerequisites
 
