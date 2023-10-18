@@ -1,0 +1,8 @@
+prefix=/home/aakashrawat/Machine-Learning-in-ROS/turtlebot3_ws/devel
+
+Name: turtlebot3_neural_network
+Description: Description of turtlebot3_neural_network
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
